@@ -2,36 +2,77 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.buzzchat.top/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "Atom",
+    "name": "公益站",
+    "link": "https://buzzhr-buzzgpt.hf.space"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "站点检测",
+    "link": "https://status.buzzchat.top/"
+  },
+  {
+    "icon": "Search",
+    "name": "网盘资源站",
+    "link": "https://www.lianxiangso.top/"
+  },
+  {
+    "icon": "ReminderMedical",
+    "name": "思维导图",
+    "link": "https://mind.buzzchat.top/"
+  },
+  {
+    "icon": "Heart",
+    "name": "love",
+    "link": "https://love.buzzchat.top/"
+  },
+  {
+    "icon": "Compass",
+    "name": "引导页",
+    "link": "https://123.buzzchat.top/"
+  },
+  {
+    "icon": "Atom",
+    "name": "Prompt",
+    "link": "https://prompt.buzzchat.top/"
+  },
+  {
+    "icon": "Book",
+    "name": "导航(待完善)",
+    "link": "https://navi.buzzchat.top/"
+  },
+  {
+    "icon": "Atom",
+    "name": "GPTnext",
+    "link": "https://buzzhr-gpt.hf.space/"
+  },
+  {
+    "icon": "Atom",
+    "name": "LobeChat",
+    "link": "https://buzzhr-lobe.hf.space/"
+  },
+  {
+    "icon": "Atom",
+    "name": "BING",
+    "link": "https://buzzhr-bingo.hf.space/"
+  },
+  {
+    "icon": "Atom",
+    "name": "ChatGemini-Pro",
+    "link": "https://gemini.buzzchat.top/"
+  },
+  {
+    "icon": "PaintBrush",
+    "name": "SD",
+    "link": "https://prodia-fast-stable-diffusion.hf.space/"
+  },
+  {
+    "icon": "Python",
+    "name": "Jupyter",
+    "link": "https://buzzhr-jupyterlab.hf.space/"
   }
+  
 ]
