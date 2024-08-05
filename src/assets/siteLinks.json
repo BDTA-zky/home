@@ -25,6 +25,11 @@
     "link": "https://mind.buzzchat.top/"
   },
   {
+    "icon": "BookOpen",
+    "name": "思维导图",
+    "link": "https://mind.buzzchat.top/"
+  },
+  {
     "icon": "Heart",
     "name": "love",
     "link": "https://love.buzzchat.top/"
